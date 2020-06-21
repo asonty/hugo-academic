@@ -84,10 +84,10 @@
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: interests
 
 - id: education
-  translation: Education
+  translation: education
 
 - id: user_profile_latest
   translation: Latest
