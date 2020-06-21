@@ -208,16 +208,16 @@
 # Search
 
 - id: search
-  translation: Search
+  translation: search
 
 - id: search_placeholder
-  translation: Search...
+  translation: enter keyword(s)...
 
 - id: search_results
-  translation: results found
+  translation: results found.
 
 - id: search_no_results
-  translation: No results found
+  translation: no results found.
 
 # Error 404
 
